@@ -325,36 +325,6 @@ ul.thin li {
 #nav_index {
     display: none !important;
 }
-#nav_Free a {
-    position: relative;
-    top: -133px;
-    right: 60px;
-    background: url('./images/menu/freeleech-sprite-dark.png');
-    background-position: 0 8px !important;
-    background-repeat: no-repeat;
-    background-size: 50px auto !important;
-    padding: 35px 0px 0px 0px !important;
-    color: transparent !important;
-    display: block;
-    width: 50px;
-    margin-top: 0;
-    font-weight: 700 !important;
-    font-size: 0.8em;
-    text-align: center;
-    transition: color 0.2s;
-}
-#nav_Free a:hover {
-    background: url('./images/menu/freeleech-sprite-dark.png') !important;
-    background-position: 0 91px !important;
-    background-size: 50px auto !important;
-    color: #fff !important;
-}
-#nav_Free a:active {
-    background: url('./images/menu/freeleech-sprite-dark.png') !important;
-    background-position: 0 49px !important;
-    background-size: 50px auto !important;
-    color: #fff !important;
-}
 #nav_staff {
     position: absolute;
     display: inline-block;
@@ -425,6 +395,22 @@ ul.thin li {
     padding-top: 48px;
     font-size: 0px;
 }
+#userinfo_major #nav_store a{
+	margin-left:-100px
+}
+#userinfo_major #nav_store a{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 0
+}
+#userinfo_major #nav_store a:hover{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 84px
+}
+#userinfo_major #nav_store a:active{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 42px
+}
+#
 #userinfo_major #nav_upload {
     background: url('./images/menu/upload-sprite-dark.png');
     background-position: 0px 6px;
