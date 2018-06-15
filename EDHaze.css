@@ -1821,16 +1821,7 @@ a[onclick^='remove_selection'], .remove.remove_artist a {
 a[onclick^='remove_selection'] .brackets:before, a[onclick^='remove_selection'] .brackets:after, .edit_tags_votes .brackets:after, .edit_tags_votes .brackets:before {
     content: none !important;
 }
-#better .thin.box.pad .torrent_table {
-    margin-left: -12px;
-    margin-bottom: -12px;
-}
-#better .thin .box.pad {
-    padding: 10px !important;
-}
-#better .thin #lists+.box.pad {
-    padding: 0 !important;
-}
+
 strong.important_text {
     background: #a16ac8 !important;
 	color:#fff !important;
