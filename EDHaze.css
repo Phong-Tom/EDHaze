@@ -395,22 +395,6 @@ ul.thin li {
     padding-top: 48px;
     font-size: 0px;
 }
-#userinfo_major #nav_store a{
-	margin-left:-100px
-}
-#userinfo_major #nav_store a{
-	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
-	background-position:0 0
-}
-#userinfo_major #nav_store a:hover{
-	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
-	background-position:0 84px
-}
-#userinfo_major #nav_store a:active{
-	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
-	background-position:0 42px
-}
-#
 #userinfo_major #nav_upload {
     background: url('./images/menu/upload-sprite-dark.png');
     background-position: 0px 6px;
@@ -444,6 +428,21 @@ ul.thin li {
     background: url('./images/menu/invite-sprite-dark.png');
     background-position: 0 48px;
     background-size: 50px auto !important;
+}
+#userinfo_major #nav_store a{
+	margin-left:-100px
+}
+#userinfo_major #nav_store a{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 0
+}
+#userinfo_major #nav_store a:hover{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 84px
+}
+#userinfo_major #nav_store a:active{
+	background:url('https://notwhat.cd/static/styles/haze_dark/img/HNrVbzA.png');
+	background-position:0 42px
 }
 #userinfo_major #nav_donate {
     background: url('./images/menu/donate-sprite-dark.png');
